@@ -1,0 +1,2 @@
+SimpleSAML:     https://wiki.surfnet.nl/display/surfconextdev/Securing+your+simpleSAMLphp+setup
+Shibboleth SP:  https://wiki.surfnet.nl/display/surfconextdev/Shibboleth+SP+security+checklist
